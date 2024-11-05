@@ -1,2 +1,2 @@
-# CSS-Repository-
+# CSS-Repository
 Creating webpage using CSS
