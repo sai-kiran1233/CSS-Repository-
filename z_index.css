@@ -1,0 +1,25 @@
+.square{
+    background-color: aqua;
+    height: 50px;
+    width: 300px;
+    border: solid;
+    z-index: -1;
+     
+}
+.rectangle{
+    background-color: pink;
+    height: 80px;
+    width: 80px;
+    border: solid;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    z-index: -1;
+     
+}
+#first{
+    background-color: blue;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}

@@ -1,0 +1,63 @@
+.green{
+    background-color: green;
+    height: 80px;
+    width: 80px;
+    border:;
+    position: absolute;
+    top: 200px;
+    left: 300px;
+    bottom:100px;
+    right:;
+}
+.yelow{
+    background-color:yellow;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 235px;
+    left: 335px;
+    z-index: -1;
+}
+.blue{
+    background-color:blue;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 280px;
+    left:380px;
+}
+.voilet{
+    background-color: violet;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 315px;
+    left: 420px;
+}
+.gray{
+    background-color: gray;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top:280px;
+    left: 480px;
+    z-index: -1;
+}
+.orange{
+    background-color: orange;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 230px;
+    left: 525px;
+    z-index: -2;
+    
+}
+.silver{
+    background-color:silver;
+    height: 80px;
+    width: 80px;
+    position: absolute;
+    top: 200px;
+    left: 560px;
+}

@@ -1,0 +1,15 @@
+button{
+    color: bisque;
+    font-size: 30px;
+    border-radius:  ;
+    cursor: not-allowed;
+}
+button:hover{
+    background-color: aqua;
+}
+p{
+    background-color: brown;
+}
+div.class{
+    background-color: darkblue;
+}

@@ -1,0 +1,46 @@
+.square{
+    background-color: aqua;
+    height: 100px;
+    width: 100px;
+    border: solid;
+}
+#parent{
+    background-color: red;
+    position: fixed;
+    right:0px;
+    top: 0px;
+    
+}
+#child{
+    background-color:aqua;
+    position:  fixed;
+    left: 0px;
+    top: 0px;
+     
+
+}
+.name{
+    background-color: aqua;
+    height: 500px;
+    width: 800px;
+    border: solid;
+}
+.son{
+    background-color: aqua;
+    height: 80px;
+    width: 80px;
+    border: solid;
+} 
+#satya{
+    background-color: blue;
+    position: absolute;
+    left:100px;
+    bottom: 180px;
+
+}
+#pavan{
+    background-color: cadetblue;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}

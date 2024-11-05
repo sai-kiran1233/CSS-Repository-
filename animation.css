@@ -1,0 +1,33 @@
+/*
+@keyframes example{
+   0% {background-color: red;left: 0px;top: 0px; }
+   25%{background-color: yellow;left: 200px;top: 400px;}
+   50%{background-color: blue;left: 300px;top: 400px;}
+   75%{background-color: green;left: 0px;top: 400px;}
+   100%{background-color: red;left: 20px;top: 30px;}
+
+}   */
+
+    /* from {background-color: red;}
+    to {background-color: yellow;} */
+
+/*
+.animation{
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+    position:relative;
+    animation-name: example;
+    animation-duration: 10s;
+    animation-iteration-count: 3;
+}  */
+.animation{
+    height: 200px;
+    width: 200px;
+    background-color: rebeccapurple;
+    transition: width 2s , height 10s; /* this tansition will able increase the height and width acording to time given*/
+}
+div:hover{
+    width: 500px;
+    height: 500px;
+}

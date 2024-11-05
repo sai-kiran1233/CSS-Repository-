@@ -1,0 +1,17 @@
+.text{
+    background-color: red; 
+    text-align: center;
+    
+}       
+.text:hover{
+    background-color: green; 
+    
+}
+.text:active{
+    font-size: 30px;
+}
+/* the p:: is applicable for paragraphs we can use the first letter bold and
+ also we can make spell-mistakes . we make many changes*/
+p::first-letter{
+    font-weight: bold;
+}
